@@ -1,0 +1,42 @@
+_repo: Parvenze-e-sembianze_37819
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37819-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Albertazzi, Adolfo
+    alias: Albertazzi
+    birthdate: 1865
+    deathdate: 1924
+    gutenberg_agent_id: '39080'
+    url: http://www.gutenberg.org/2009/agents/39080
+    wikipedia: http://it.wikipedia.org/wiki/Adolfo_Albertazzi
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2011-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37819'
+  lccn: '03031055'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Leti, Gregorio, 1630-1701'
+- !lcc 'PQ'
+- !lcsh 'Italian literature -- History and criticism'
+- !lcsh 'Barbozza, Bianca (Bentivoglio), contessa, -1629'
+- !lcsh 'Boccaccio, Giovanni, 1313-1375. Decamerone'
+- !lcsh 'Italian fiction -- History and criticism'
+- !lcsh 'Bianca, Grand-Duchess, consort of Francesco I, Grand-Duke of Tuscany, 1548-1587'
+- !lcsh 'Tarabotti, Arcangela'
+- !lcsh 'Bentivoglio, Pellegrina (Bonaventura) contessa, -1598'
+- !lcsh 'Boiardo, Matteo Maria, 1440 or 1441-1494. Orlando innamorato'
+- !lcsh 'Buoninsegni, Francesco, 1605-approximately 1660'
+tableOfContents: Liberalità di Messer Bertramo d'Aquino -- Chi di gallina nasce....
+  -- Gregorio Leti spirito satirico -- Punizione -- Molto rumore pernulla -- Sicut
+  erat.... -- I novellatori e le novellatrici del "Dacamerone" -- La novella di Fiordiligi.
+title: Parvenze e sembianze
+url: http://www.gutenberg.org/ebooks/37819
